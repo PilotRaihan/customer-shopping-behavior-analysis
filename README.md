@@ -53,7 +53,7 @@ Power BI Dashboard
 *Clothing generated the highest revenue.\
 *Most customers were non-subscribers.\
 *Credit Card and PayPal were the most frequently used payment methods.\
-*Customer ratings remained consistently above average across categories.\
+*Customer ratings remained consistently above average across categories.
 
 <img width="1912" height="1218" alt="image" src="https://github.com/user-attachments/assets/9973ce6a-f837-4c6a-b145-736773da9917" />
 
