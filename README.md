@@ -3,18 +3,18 @@ Project Overview
 
 This project analyzes customer shopping behavior using Python, SQL, and Power BI to uncover purchasing trends, customer preferences, and business insights.\
 
-->Tech Stack
+->Tech Stack\
 Python
 Pandas
 MySQL
 Power BI
 
-->Dataset
+->Dataset\
 Customer Shopping Behavior Dataset
 3900 customer records
 18 features
 
-->Workflow
+->Workflow\
 Data Collection
         ↓
 Data Cleaning
@@ -25,14 +25,14 @@ SQL Business Analysis
         ↓
 Power BI Dashboard
 
-->Data Cleaning
+->Data Cleaning\
 Removed unnecessary columns
 Treated missing values
 Created new features
 Standardized the dataset
 SQL Analysis
 
-->Performed analysis such as:
+->Performed analysis such as:\
 Revenue by Category
 Revenue by Gender
 Top Revenue Locations
@@ -41,7 +41,7 @@ Payment Method Analysis
 Average Review Ratings
 Dashboard
 
-->The Power BI dashboard includes:
+->The Power BI dashboard includes:\
 Customer KPIs
 Revenue Analysis
 Category Analysis
@@ -49,7 +49,7 @@ Payment Insights
 Top 10 Revenue Locations
 Interactive Filters
 
-->Key Insights
+->Key Insights\
 Clothing generated the highest revenue.
 Most customers were non-subscribers.
 Credit Card and PayPal were the most frequently used payment methods.
@@ -57,7 +57,7 @@ Customer ratings remained consistently above average across categories.
 
 <img width="1912" height="1218" alt="image" src="https://github.com/user-attachments/assets/9973ce6a-f837-4c6a-b145-736773da9917" />
 
-->Skills Demonstrated
+->Skills Demonstrated\
 Data Cleaning
 Exploratory Data Analysis
 SQL
